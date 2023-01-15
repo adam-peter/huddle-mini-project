@@ -8,8 +8,8 @@ module.exports = {
         "huddle-magenta": "hsl(300, 69%, 71%)",
       },
       backgroundImage: {
-        "desktop": "url('./images/bg-desktop.svg')",
-        "mobile": "url('./images/bg-mobile.svg')"
+        "desktop": "url('/images/bg-desktop.svg')",
+        "mobile": "url('/images/bg-mobile.svg')"
       },
     },
   },
