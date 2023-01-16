@@ -1,15 +1,15 @@
 function App() {
   return (
     <div className="m-12">
-      <img className="lg:w-2/12 w-4/12" src="./images/logo.svg" alt="logo" />
-      <div className="lg:flex">
+      <img className="lg:w-2/12 w-3/12" src="./images/logo.svg" alt="logo" />
+      <div className="md:flex">
         <img
-          className="my-16 mx-auto"
+          className="my-16 mx-auto md:w-1/2"
           src="./images/illustration-mockups.svg"
           alt="illustrations"
         />
 
-        <div className="lg:my-16">
+        <div className="md:my-16">
           <h1 className="mx-12 mb-4 text-center font-headings text-3xl font-bold tracking-wide text-white lg:text-6xl ">
             Build The Community Your Fans Will Love
           </h1>
