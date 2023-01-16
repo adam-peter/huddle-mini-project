@@ -4,13 +4,11 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Table of contents
 
-- [Huddle landing page with single introductory section solution](#huddle-landing-page-with-single-introductory-section-solution)
-  - [Table of contents](#table-of-contents)
-    - [The challenge](#the-challenge)
-    - [Screenshots](#screenshots)
-    - [Links](#links)
-    - [Built with](#built-with)
-  - [Author](#author)
+- [The challenge](#the-challenge)
+- [Screenshots](#screenshots)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
 ### The challenge
 
@@ -26,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Here](https://huddle-mini-project.vercel.app)
 
 ### Built with
 
